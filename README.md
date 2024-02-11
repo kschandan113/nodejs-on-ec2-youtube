@@ -1,4 +1,4 @@
-# Hello Chandan and jyoti is best devops engineer
+# Hello Chandan
 # Node public repo Hello World subscribe to my channel , thanks you
 
 Simple node.js app that servers "A Monk in Cloud"
